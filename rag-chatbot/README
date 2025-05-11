@@ -1,3 +1,0 @@
-# GenAI ChatBot for Enterprise Data Using Retrieval Augmented Generation (RAG)
-Built on Google's GCP Vertex AI platform, using Gemini Models
-Uses GCS (for Document storage), LangChain (for building RAG system), Redis (for Vector DB)
