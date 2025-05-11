@@ -1,4 +1,6 @@
-# ChatBot for Enterprise Search Using Retrieval Augmented Generation (RAG)
+# ChatBot for Enterprise Search 
+
+Using Retrieval Augmented Generation (RAG).
 
 Built on Google's GCP Vertex AI platform, using Gemini Models.
 
